@@ -40,7 +40,7 @@ namespace AimTrainer
 
         private void ClickButtonSize()
         {
-            ClickButton.Width = rand.Next(40, 150);
+            ClickButton.Width = rand.Next(40, 160);
             ClickButton.Height = ClickButton.Width;
         }
 
